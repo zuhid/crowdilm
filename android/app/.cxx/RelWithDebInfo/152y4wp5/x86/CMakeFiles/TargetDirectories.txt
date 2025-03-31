@@ -1,2 +1,0 @@
-/home/tanvir/Documents/github/crowdilm.app.git/android/app/.cxx/RelWithDebInfo/152y4wp5/x86/CMakeFiles/edit_cache.dir
-/home/tanvir/Documents/github/crowdilm.app.git/android/app/.cxx/RelWithDebInfo/152y4wp5/x86/CMakeFiles/rebuild_cache.dir

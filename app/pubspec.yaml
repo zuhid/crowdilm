@@ -1,0 +1,28 @@
+name: crowdilm
+description: "A new Flutter project."
+version: 0.2.29+29
+environment:
+  sdk: ^3.6.0
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  go_router: ^14.6.2
+  http: ^1.2.2
+  sqlite3: ^2.5.0
+  sqlite3_flutter_libs: ^0.5.28
+  path_provider: ^2.1.5
+  html: ^0.15.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/db/
+  fonts:
+    - family: Scheherazade
+      fonts:
+        - asset: assets/Scheherazade-Regular.ttf

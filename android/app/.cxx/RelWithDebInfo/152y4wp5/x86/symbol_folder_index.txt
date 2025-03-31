@@ -1,1 +1,0 @@
-/home/tanvir/Documents/github/crowdilm.app.git/build/app/intermediates/cxx/RelWithDebInfo/152y4wp5/obj/x86
