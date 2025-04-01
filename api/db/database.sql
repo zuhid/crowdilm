@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS crowdilm;
+CREATE DATABASE crowdilm;
+ALTER DATABASE crowdilm CHARACTER SET utf8 COLLATE utf8_unicode_ci;
