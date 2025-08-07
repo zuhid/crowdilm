@@ -1,9 +1,9 @@
 services:
-  apache:
+  php:
     build:
       context: .
-      dockerfile: apache.dockerfile
-    container_name: apache_local
+      dockerfile: php.dockerfile
+    container_name: php_local
     ports:
       - "8080:80"
     volumes:
@@ -14,6 +14,7 @@ services:
 
   mysql:
     image: mysql:8.0
+    restart: always
     container_name: mysql_local
     ports:
       - "3306:3306"

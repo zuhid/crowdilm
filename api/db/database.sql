@@ -1,3 +1,4 @@
-DROP DATABASE IF EXISTS crowdilm;
-CREATE DATABASE crowdilm;
-ALTER DATABASE crowdilm CHARACTER SET utf8 COLLATE utf8_unicode_ci;
+drop database if exists crowdilm;
+create database if not crowdilm;
+alter database crowdilm character set utf8 collate utf8_unicode_ci;
+use crowdilm;

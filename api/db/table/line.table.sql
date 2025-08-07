@@ -9,4 +9,4 @@ create table if not exists line(
   page int not null,
 	primary key(id)
 );
-ALTER TABLE line CONVERT TO CHARACTER SET utf8 COLLATE utf8_unicode_ci;
+alter table line convert to character set utf8 collate utf8_unicode_ci;
