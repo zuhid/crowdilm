@@ -1,0 +1,10 @@
+<script>
+</script>
+<template>
+<select>
+  <option></option>
+  <option>one</option>
+</select>
+</template>
+<style>
+</style>
