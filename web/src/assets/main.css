@@ -1,5 +1,20 @@
 @import './base.css';
 
-a{
+@font-face {
+  font-family: Scheherazade;
+  src: url("styles/Scheherazade-Regular.ttf");
+}
+
+html,
+body {
+  color: white;
+  background: black;
+  font-size: 1em;
+  margin: 2px;
+  font-family: "Scheherazade";
+  font-size: 1.5em;
+}
+
+a {
   color: white;
 }
